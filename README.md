@@ -22,15 +22,15 @@ The Task Management API allows users to create, retrieve, update, and delete tas
 
 ### Swagger API Documentation
 
-![Swagger API Overview](images/Screenshot 2026-09-07 085153.png)
+![Swagger API Overview](images/swagger-overview.png)
 
 ### Get All Tasks
 
-![Get All Tasks](images/Screenshot 2026-09-07 085229.png)
+![Get All Tasks](images/get-all-tasks.png)
 
 ### Create a Task
 
-![Create Task](images/Screenshot 2026-09-07 085312.png)
+![Create Task](images/create-task.png)
 
 ## Technology Stack
 
