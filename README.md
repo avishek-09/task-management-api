@@ -18,6 +18,20 @@ The Task Management API allows users to create, retrieve, update, and delete tas
 - Automatically record task creation timestamps
 - Built with ASP.NET Core best practices and controller-based architecture
 
+## API Screenshots
+
+### Swagger API Documentation
+
+![Swagger API Overview](images/Screenshot 2026-09-07 085153.png)
+
+### Get All Tasks
+
+![Get All Tasks](images/Screenshot 2026-09-07 085229.png)
+
+### Create a Task
+
+![Create Task](images/Screenshot 2026-09-07 085312.png)
+
 ## Technology Stack
 
 - C#
